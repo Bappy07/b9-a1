@@ -1,0 +1,50 @@
+
+.header{
+    text-align: center;
+    justify-content: space-around;
+    
+}
+
+.banner-title{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+padding-left:550px ;
+padding-top:100px ;
+}
+.banner-sub-title{
+    width: 632px;
+    color: #FFF;   
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+position: absolute;
+padding-left:350px ;
+padding-top: 120px;
+
+
+
+}
+.banner-iamge{
+    background-position: Top right;
+    
+}
+
+.banner{
+    
+    width: 1320px;
+height: 600px;
+background-position: center top;
+margin: 260px;
+    margin-top: 20px;
+
+}
+
+
