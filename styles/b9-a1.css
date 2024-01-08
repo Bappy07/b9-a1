@@ -46,5 +46,120 @@ margin: 260px;
     margin-top: 20px;
 
 }
+.New-year-sell{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 300px;
+}
+.New-year-sell-info{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+margin-top: 200px;
+
+
+
+}
+.New-year-sell-categoeies{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.selling-info-pic{
+width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+background-position: center;
+justify-content: space-around;
+margin-left: 400px;
+margin-bottom:150px ;
+}
+
+.Welcome-to-the-party{
+width: 642px;
+ color: rgba(255, 255, 255, 0.80);;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+position: absolute;
+margin-left: 300px;
+}
+
+.party-description{
+    width: 697px;
+    color:#FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 300px;
+}
+.welcome-party-backround{
+    margin-left: 260px;
+    align-items: center;
+    display: flex;
+   
+}
+.btn{
+    color: #FFF;
+background: none;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+border: none;
+margin-top: 400px;
+margin-left: 295px;
+position: absolute;
+}
+.new-banner{
+    
+    display: flex;  
+    align-.items: center;  
+    justify-content: space-between;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    color: black;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
 
 
